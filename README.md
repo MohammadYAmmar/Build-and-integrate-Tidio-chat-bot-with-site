@@ -8,7 +8,8 @@ Task when intren in Smart methods company
 
 Initially, these explanations have been written and guided by the Learning Guide
 
-#### <p align="center"> [دليل لعمل رد آلي باللغة العربية](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/%D8%AF%D9%84%D9%8A%D9%84%20%D8%B9%D9%85%D9%84%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%8A%20%D9%88%D8%A7%D8%B6%D8%A7%D9%81%D8%A7%D8%AA%D9%87%20Tidio.md)</p>
+#### <p align="center"> [دليل لعمل رد آلي باللغة العربية](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/%D8%AF%D9%84%D9%8A%D9%84%20%D8%B9%D9%85%D9%84%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%8A%20%D9%88%D8%A7%D8%B6%D8%A7%D9%81%D8%AA%D9%87%20Tidio.md)
+</p>
 
 #### <p align="center"> [Tutorial for using Tidio](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Tutorial%20for%20using%20Tidio.md)</p>
 
