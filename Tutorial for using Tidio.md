@@ -46,6 +46,14 @@ Your score </div>
 ## <div>There is a program interface for technical support, communication with users, and monitoring of what is happening </div>
 ![alt text](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/GIF%20Chat%20bot%20experience%20English%20interface%20with%20technical%20support.gif "interface with technical support")
 
+## <div> The sequence of operations was like this</div>
+
+![much-a image](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Image%20of%20the%20sequence%20of%20chat%20programming.png) 
+
+## <div> This is a tour of what has been implemented </div>
+
+![alt text](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/GIF%20Sequence%20of%20chat%20programming.gif
+ "interface")
 
 
 ## <div>This is the first time I am writing this method, and I learned from this explanation to Chat Pot as well, but to ibm_watson who is a student in training  </div>
