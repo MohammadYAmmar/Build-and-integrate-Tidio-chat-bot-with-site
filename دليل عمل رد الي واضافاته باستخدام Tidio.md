@@ -20,22 +20,26 @@
 ![much-a image](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Pictures%20of%20the%20steps/step%204%20Connectivity%20methods.png) 
 
 ## <div dir="rtl">هنا تختار على حسب برمجة موقعك وما تستخدم ، بالنسبة لي استخدم أكواد php وما ضمنها فسأختار java script</div>
+
 ![much-a image](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Pictures%20of%20the%20steps/step%204%20-%201%20Software%20linking%20methods.png)
 
 ## <div dir="rtl">سيظهر لنا السطر البرمجي ننسخع ونضيفه في موقعنا ، طبعًا يختلف السطر حسب الحساب والرد الآلي الذي تبرمج</div>
+
 ![much-a image](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Pictures%20of%20the%20steps/step%204%20-%202%20It%20changes%20as%20the%20bot%20and%20account%20change.png) 
 
 ## <div dir="rtl">ومن أيقونة المشغل ومن ثم التعديل </div>
+
 ![much-a image](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Image%20showing%20the%20number%20of%20users%20and%20chat%20bots%20that%20you%20have%20to%20adjust.png) 
 
 ## <div dir="rtl"> ستطهر لنا هذه الواجهة لبرمجة ما نريده</div>
+
 ![much-a image](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Pictures%20of%20the%20steps/step%205%20custom.png) 
 
-## <div dir="rtl"> من القائمة اليمنى تظهر لنا أنواع الخيارات إما بتحقيق شرط معين أو لحدث معين يحصل او ننفذه</div>
 
-## <div dir="rtl"> نستطيع فيه مثلاً التخصيص حسب لغة متصفح المسنخدم لدعم اللغتين وتخزين الاسم والبريد الالكتروني والتوصيل بالأسهم</div>
+## <div dir="rtl"> من القائمة اليمنى تظهر لنا أنواع الخيارات إما بتحقيق شرط معين أو لحدث معين يحصل او ننفذه
+نستطيع فيه مثلاً التخصيص حسب لغة متصفح المسنخدم لدعم اللغتين وتخزين الاسم والبريد الالكتروني والتوصيل بالأسهم
+النتيجة التي قمت بها</div>
 
-## <div dir="rtl"> النتيجة التي قمت بها</div>
 ![alt text](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/GIF%20Chat%20bot%20Arabic%20interface%20experience.gif "تجربة")
 
 
