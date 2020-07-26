@@ -46,6 +46,14 @@
 ## <div dir="rtl"> وهنالك واجهة بالبرنامج للدعم الفني والتواصل مع المستخدمين ومراقبة ما يحدث</div>
 ![alt text](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/GIF%20Chat%20bot%20Arabic%20interface%20experience%20with%20technical%20support.gif "المراقبة والدعم الفني")
 
+## <div dir="rtl"> وكان تسلسل العمليات هكذا</div>
+
+![much-a image](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Image%20of%20the%20sequence%20of%20chat%20programming.png) 
+
+## <div dir="rtl"> وهذه جولة بما نفذت</div>
+
+![alt text](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/GIF%20Sequence%20of%20chat%20programming.gif
+ "interface")
 
 
 ## <div dir="rtl">وهذه أول مرة أكتب بهذا الأسلوب، وقد عرفته من هذا الشرح لشات بوت أيضاً لكن ل ibm_watson من طالبة بالتدريب  </div>
