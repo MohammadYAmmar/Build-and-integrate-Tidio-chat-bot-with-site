@@ -12,6 +12,8 @@ Initially, these explanations have been written and guided by the Learning Guide
 
 #### <p align="center"> [Tutorial for using Tidio](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Tutorial%20for%20using%20Tidio.md)</p>
 
+I have dedicated the automatic response that it detects the language of the browser for the device in use and from it shows the commands, either in Arabic or English
+
 The final form of his experience in Arabic
 
 ![alt text](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/GIF%20Chat%20bot%20Arabic%20interface%20experience.gif "تجربة")
