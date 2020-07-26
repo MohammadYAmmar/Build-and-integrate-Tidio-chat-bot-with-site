@@ -1,0 +1,66 @@
+body {
+    background-color: lightskyblue;
+  }
+
+  main{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: maroon;
+    font-size: 33px; 
+    cursor: -webkit-grab;   
+    width: 100%;
+    max-width: 1920px;
+    min-width: 480px;
+    height: 200px;
+    margin-left: -8px;
+    text-align: center;
+    clear: both;
+    display: inline-block; /*Important */
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 8px 0 0;
+    
+}
+
+canvas{
+    background-color: azure;
+    width: 100%;
+    height: 400px;
+}
+
+.Drawing button{
+    width:100%; 
+    height:100%; 
+    border: 1px dotted;
+    cursor: pointer;
+    font-size: large;
+
+}
+
+table, th, td {
+    border: 3px solid brown;
+    border-collapse: collapse;
+    text-align: center;
+
+  }
+
+
+/* New container to match the dimensions of the phone or any other screen */
+.container{   
+    width: 50%;
+    max-width: 1920px;
+    min-width: 480px;
+    height: 200px;
+    margin-left: -10px;
+    overflow: hidden;
+    text-align: center;
+    font-size: x-large;
+}
+.container form{
+    clear: both;
+    align-content: center;
+    text-align: right;
+    padding: 5px 5px 0;
+    width: 100%;
+}
+
