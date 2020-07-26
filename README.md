@@ -13,6 +13,7 @@ Initially, these explanations have been written and guided by the Learning Guide
 #### <p align="center"> [Tutorial for using Tidio](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Tutorial%20for%20using%20Tidio.md)</p>
 
 The final form of his experience in Arabic
+
 ![alt text](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/GIF%20Chat%20bot%20Arabic%20interface%20experience.gif "تجربة")
 
 Communicating with technical support and monitoring users
@@ -21,6 +22,7 @@ Communicating with technical support and monitoring users
 
 
 The final form of his experience in English
+
 ![alt text](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/GIF%20Chat%20bot%20experience%20English%20interface.gif "test")
 
 Communicating with technical support and monitoring users
@@ -33,6 +35,7 @@ Show the number of users
 ![much-a image](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/Image%20showing%20the%20number%20of%20users%20and%20chat%20bots%20that%20you%20have%20to%20adjust.png) 
 
 A tour of the user code
+
 ![alt text](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site/blob/master/GIF%20Sequence%20of%20chat%20programming.gif
  "interface")
 
