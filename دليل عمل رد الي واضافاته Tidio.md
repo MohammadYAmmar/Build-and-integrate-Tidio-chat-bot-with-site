@@ -50,9 +50,3 @@
 
 ## <div dir="rtl">وهذه أول مرة أكتب بهذا الأسلوب، وقد عرفته من هذا الشرح لشات بوت أيضاً لكن ل ibm_watson من طالبة بالتدريب  </div>
 #### <p align="center"> [المساعد واتسون](https://github.com/shaimadotcom/ibm_watson_assistant/edit/master/ibmWatsonTutorial_arabic.md)</p>
-
-
-
-
-
-
